@@ -1,0 +1,1426 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An impartial account of the names of His Majesty's most honourable privy-council and principal officers of this kingdom, now in commission, under the most puissant and renowned prince, King James II</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1686</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 34 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A46106</idno>
+            <idno type="STC">Wing I72</idno>
+            <idno type="STC">ESTC R41774</idno>
+            <idno type="EEBO-CITATION">31360623</idno>
+            <idno type="OCLC">ocm 31360623</idno>
+            <idno type="VID">110753</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A46106)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 110753)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1740:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An impartial account of the names of His Majesty's most honourable privy-council and principal officers of this kingdom, now in commission, under the most puissant and renowned prince, King James II</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J. Leake, for Arthur Jones ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1686.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"This may be printed, Norfolk and Marshal."</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Privy Council.</term>
+               <term>Great Britain --  History --  James II, 1685-1688.</term>
+               <term>Great Britain --  Politics and government --  1660-1688.</term>
+               <term>Broadsides --  London (England) --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:110753:1" rendition="simple:additions"/>
+            <head>AN IMPARTIAL ACCOUNT Of the Names of His MAJESTY's moſt Honourable <hi>Privy-Council, And Principal Officers of this Kingdom, now in Commiſſion,</hi> &amp;c. UNDER THE Moſt Puiſſant and Renowned Prince, King JAMES II.</head>
+            <div type="part">
+               <head>The Right Honourable the Lords, and others of His Majeſty's moſt Ho<g ref="char:EOLhyphen"/>nourable <hi>Privy-Council.</hi>
+               </head>
+               <list>
+                  <item>HIS Royal Highneſs Prince <hi>George</hi> of <hi>Denmark.</hi>
+                  </item>
+                  <item>His Grace <hi>William</hi> Lord Arch<g ref="char:EOLhyphen"/>biſhop of <hi>Canterbury.</hi>
+                  </item>
+                  <item>The Right Honourable <hi>George</hi> Lord <hi>Jeffreys,</hi> Lord High-Chancellor of <hi>England.</hi>
+                  </item>
+                  <item>
+                     <hi>Laurence</hi> Earl of <hi>Rocheſter,</hi> Lord High-Trea<g ref="char:EOLhyphen"/>ſurer of <hi>England.</hi>
+                  </item>
+                  <item>
+                     <hi>Robert</hi> Earl of <hi>Sunderland,</hi> Lord Preſident of the Council, and Principal Secretary of State.</item>
+                  <item>
+                     <hi>Henry</hi> Earl of <hi>Clarendon,</hi> Lord Privy-Seal.</item>
+                  <item>
+                     <hi>James</hi> Duke of <hi>Ormond,</hi> Lord Steward of His Majeſty's Houſhold.</item>
+                  <item>
+                     <hi>Chiſtopher</hi> Duke of <hi>Albemarle.</hi>
+                  </item>
+                  <item>
+                     <hi>Henry</hi> Duke of <hi>Newcaſtle.</hi>
+                  </item>
+                  <item>
+                     <hi>Henry</hi> Duke of <hi>Beaufort.</hi>
+                  </item>
+                  <item>
+                     <hi>William</hi> Duke of <hi>Queensbury,</hi> Lord High-Treaſurer of <hi>Scotland.</hi>
+                  </item>
+                  <item>
+                     <hi>Robert</hi> Earl of <hi>Lyndſey,</hi> Lord Great-Cham<g ref="char:EOLhyphen"/>berlain of <hi>England.</hi>
+                  </item>
+                  <item>
+                     <hi>John</hi> Earl of <hi>Mulgrave,</hi> Lord Chamberlain of His Majeſty's Houſhold.</item>
+                  <item>
+                     <hi>Aubrey</hi> Earl of <hi>Oxford.</hi>
+                  </item>
+                  <item>
+                     <hi>Theophilus</hi> Earl of <hi>Huntington.</hi>
+                  </item>
+                  <item>
+                     <hi>Henry</hi> Earl of <hi>Peterborow.</hi>
+                  </item>
+                  <item>
+                     <hi>Philip</hi> Earl of <hi>Cheſterfield.</hi>
+                  </item>
+                  <item>
+                     <hi>John</hi> Earl of <hi>Bath.</hi>
+                  </item>
+                  <item>
+                     <hi>William</hi> Earl of <hi>Craven.</hi>
+                  </item>
+                  <item>
+                     <hi>William Herbert</hi> Earl of <hi>Powis.</hi>
+                  </item>
+                  <item>
+                     <hi>George</hi> Earl of <hi>Berkeley.</hi>
+                  </item>
+                  <item>
+                     <hi>Daniel</hi> Earl of <hi>Nottingham.</hi>
+                  </item>
+                  <item>
+                     <hi>Thomas</hi> Earl of <hi>Plymouth.</hi>
+                  </item>
+                  <item>
+                     <hi>Alexander</hi> Earl of <hi>Murray,</hi> Lord Secretary of <hi>Scotland.</hi>
+                  </item>
+                  <item>
+                     <hi>James</hi> Earl of <hi>Perth,</hi> Lord High-Chancellor of <hi>Scotland.</hi>
+                  </item>
+                  <item>
+                     <hi>Charles</hi> Earl of <hi>Middleton,</hi> Principal Secre<g ref="char:EOLhyphen"/>tary of State.</item>
+                  <item>
+                     <hi>John</hi> Earl of <hi>Melfort,</hi> in <hi>Scotland.</hi>
+                  </item>
+                  <item>
+                     <hi>John</hi> Earl of <hi>Tyrconnel,</hi> in <hi>Ireland.</hi>
+                  </item>
+                  <item>
+                     <hi>Thomas</hi> Viſcount <hi>Faulconbridge.</hi>
+                  </item>
+                  <item>
+                     <hi>Richard</hi> Viſcount <hi>Preſton.</hi>
+                  </item>
+                  <item>
+                     <hi>Nathanael</hi> Lord Biſhop of <hi>Durham.</hi>
+                  </item>
+                  <item>
+                     <hi>Henry</hi> Lord <hi>Arundel</hi> of <hi>Wardour.</hi>
+                  </item>
+                  <item>
+                     <hi>John</hi> Lord <hi>Bellaſſyſe.</hi>
+                  </item>
+                  <item>
+                     <hi>George</hi> Lord <hi>Dartmouth,</hi> Maſter of the Ord<g ref="char:EOLhyphen"/>nance, and Great Maſter of the Horſe.</item>
+                  <item>
+                     <hi>Sydney</hi> Lord <hi>Godolphin,</hi> Lord Chamberlain to the Queen.</item>
+                  <item>
+                     <hi>Henry</hi> Lord <hi>Dover.</hi>
+                  </item>
+                  <item>
+                     <hi>Henry Coventry,</hi> 
+                     <abbr>Eſq</abbr>
+                  </item>
+                  <item>Sir <hi>Edward Herbert,</hi> Kt. Lord Chief-Juſtice of <hi>England.</hi>
+                  </item>
+                  <item>Sir <hi>John Earnley,</hi> Kt. Chancellor and under-Treaſurer of the <hi>Exchequer.</hi>
+                  </item>
+                  <item>Sir <hi>Thomas Chichley,</hi> Kt. Chancellor of the <hi>Dutchey.</hi>
+                  </item>
+               </list>
+            </div>
+            <div type="part">
+               <head>Clerks of the Council.</head>
+               <list>
+                  <item>Sir <hi>John Nichols,</hi> Kt. of the <hi>Bath.</hi>
+                  </item>
+                  <item>
+                     <hi>Philip Muſgrave,</hi> 
+                     <abbr>Eſq</abbr>
+                  </item>
+                  <item>
+                     <hi>William Bridgman,</hi> 
+                     <abbr>Eſq</abbr>
+                  </item>
+                  <item>
+                     <hi>William Blaithwaite,</hi> 
+                     <abbr>Eſq</abbr>
+                  </item>
+               </list>
+            </div>
+            <div type="part">
+               <head>The Lords Commiſſioners for Eccleſi<g ref="char:EOLhyphen"/>aſtical Affairs.</head>
+               <list>
+                  <item>
+                     <hi>William</hi> Lord Archbiſhop of <hi>Canterbury.</hi>
+                  </item>
+                  <item>
+                     <hi>George</hi> Lord <hi>Jeffreys,</hi> Lord High-Chancel<g ref="char:EOLhyphen"/>lor of <hi>England.</hi>
+                  </item>
+                  <item>
+                     <hi>Laurence</hi> Earl of <hi>Rocheſter,</hi> Lord High-Treaſurer of <hi>England.</hi>
+                  </item>
+                  <item>
+                     <hi>Robert</hi> Earl of <hi>Sunderland,</hi> Lord Preſident of the Council, and Principal Secretary of State.</item>
+                  <item>
+                     <hi>Nathanael</hi> Lord Biſhop of <hi>Durham.</hi>
+                  </item>
+                  <item>
+                     <hi>Thomas</hi> Lord Biſhop of <hi>Rocheſter.</hi>
+                  </item>
+                  <item>Sir <hi>Edward Herbert,</hi> Kt. Lord Chief-Juſtice of <hi>England.</hi>
+                  </item>
+                  <item>Regiſter, <hi>William Bridgman,</hi> 
+                     <abbr>Eſq</abbr>
+                  </item>
+               </list>
+            </div>
+            <div type="part">
+               <head>Great Officers of the Crown.</head>
+               <list>
+                  <item>The Lord High-Steward of <hi>England.</hi>
+                  </item>
+                  <item>The Lord High-Chancellor of <hi>England, George</hi> Lord <hi>Jeffreys.</hi>
+                  </item>
+                  <item>The Lord High-Treaſurer of <hi>England, Lau<g ref="char:EOLhyphen"/>rence</hi> Earl of <hi>Rocheſter.</hi>
+                  </item>
+                  <item>The Lord Preſident of the King's Council, <hi>Robert</hi> Earl of <hi>Sunderland.</hi>
+                  </item>
+                  <item>The Lord Privy-Seal, <hi>Henry</hi> E. of <hi>Clarendon.</hi>
+                  </item>
+                  <item>The Lord High-Conſtable.</item>
+                  <item>The Lord Great Chamberlain, <hi>Robert</hi> Earl of <hi>Lindſey.</hi>
+                  </item>
+                  <item>The Earl Marſhal, <hi>Henry</hi> Duke of <hi>Norfolk.</hi>
+                  </item>
+                  <item>The Lord High-Admiral: In His Majeſty's Hands.</item>
+               </list>
+            </div>
+            <div type="part">
+               <head>His Majeſty's Principal Secretaries of State.</head>
+               <list>
+                  <item>
+                     <hi>Robert</hi> Earl of <hi>Sunderland.</hi>
+                  </item>
+                  <item>
+                     <hi>Charles</hi> Earl of <hi>Middleton.</hi>
+                  </item>
+               </list>
+            </div>
+            <div type="part">
+               <head>Officers of His Majeſty's Houſhold.</head>
+               <list>
+                  <head>Eccleſiaſtical. 3.</head>
+                  <item>Dean of the Chapel, <hi>Nathanael</hi> Lord Bi<g ref="char:EOLhyphen"/>ſhop of <hi>Durham.</hi>
+                  </item>
+                  <item>The Clerk of the Cloſet, <hi>Thomas</hi> Lord Bi<g ref="char:EOLhyphen"/>ſhop of <hi>Rocheſter.</hi>
+                  </item>
+                  <item>The Lord Almoner, <hi>Francis</hi> L. Biſhop of <hi>Ely.</hi>
+                  </item>
+               </list>
+               <list>
+                  <head>Civil. 9.</head>
+                  <item>Lord Steward of His Majeſty's Houſhold, <hi>James</hi> Duke of <hi>Ormond.</hi>
+                  </item>
+                  <item>Lord Chamberlain of His Majeſty's Houſ<g ref="char:EOLhyphen"/>hold, <hi>John</hi> Earl of <hi>Mulgrave.</hi>
+                  </item>
+                  <item>The Maſter of the Horſe, <hi>George</hi> Lord <hi>Dartmouth.</hi>
+                  </item>
+                  <item>Treaſurer of the Houſhold, <hi>Francis</hi> Viſcount <hi>Newport.</hi>
+                  </item>
+                  <item>The Comptroller of the Houſhold, <hi>William</hi> Lord <hi>Maynard.</hi>
+                  </item>
+                  <item>The Cofferer, Sir <hi>Peter Apſley.</hi>
+                  </item>
+                  <item>The Maſter of the Houſhold, <hi>H. Bulkley</hi> 
+                     <abbr>Eſq</abbr>
+                  </item>
+                  <item>Clerks of the Green-cloth
+<list>
+                        <item>Sir <hi>Stephen Fox,</hi> Kt.</item>
+                        <item>
+                           <gap reason="blank" extent="1 word">
+                              <desc> _____ </desc>
+                           </gap>
+                        </item>
+                     </list>
+                  </item>
+                  <item>Clerks Com<g ref="char:EOLhyphen"/>ptrollers, 
+<list>
+                        <item>Sir <hi>Winſton Churchill,</hi> Kt.</item>
+                        <item>Sir <hi>Henry Firebraſs,</hi> Kt.</item>
+                        <item>Sir <hi>John Sparrow,</hi> Kt.</item>
+                     </list>
+                  </item>
+               </list>
+            </div>
+            <div type="part">
+               <head>The Gentlemen of the Bed-Chamber to His Majeſty.</head>
+               <list>
+                  <item>
+                     <hi>Henry</hi> Earl of <hi>Peterborow,</hi> Firſt Gentleman, and Groom of the Stole.</item>
+                  <item>
+                     <hi>Charles</hi> Duke of <hi>Somerſet.</hi>
+                  </item>
+                  <item>
+                     <hi>Henry</hi> Duke of <hi>Beaufort.</hi>
+                  </item>
+                  <item>
+                     <hi>Thomas</hi> Earl of <hi>Ailesbury.</hi>
+                  </item>
+                  <item>
+                     <hi>Edward</hi> Earl of <hi>Litchfield.</hi>
+                  </item>
+                  <item>
+                     <hi>Lewis</hi> Earl of <hi>Feverſham.</hi>
+                  </item>
+                  <item>
+                     <hi>James</hi> Earl of <hi>Arran</hi> in the Kingdom of <hi>Scotland.</hi>
+                  </item>
+                  <item>
+                     <hi>James</hi> Earl of <hi>Oſſory.</hi>
+                  </item>
+                  <item>
+                     <hi>John</hi> Lord <hi>Churchill.</hi>
+                  </item>
+               </list>
+               <list>
+                  <item>Vice-Chamberlain, <hi>Henry Savell,</hi> 
+                     <abbr>Eſq</abbr>
+                  </item>
+                  <item>Keeper of the Privy-Purſe, <hi>J. Graham,</hi> 
+                     <abbr>Eſq</abbr>
+                  </item>
+                  <item>Treaſurer of the Chamber, <hi>Edw. Griffin,</hi> 
+                     <abbr>Eſq</abbr>
+                  </item>
+                  <item>Surveyor General of His Majeſty's Works, Sir <hi>Chriſtopher Wren,</hi> Kt.</item>
+                  <item>Maſter of the Robes belonging to His Ma<g ref="char:EOLhyphen"/>jeſty's Perſon, <hi>Herbert</hi> 
+                     <abbr>Eſq</abbr>
+                  </item>
+                  <item>Maſter of the Jewel-Houſe, Sir <hi>Gilbert Tal<g ref="char:EOLhyphen"/>bot,</hi> Kt.</item>
+                  <item>Maſter of the Ceremonies, Sir <hi>Charles Cot<g ref="char:EOLhyphen"/>teril,</hi> Kt.</item>
+                  <item>Maſter of the Great Wardrobe, <hi>Richard</hi> Lord Viſcount <hi>Preſton.</hi>
+                  </item>
+                  <item>Maſter Faulconer, <hi>Charles</hi> Duke of St. <hi>Albans.</hi>
+                  </item>
+               </list>
+               <list>
+                  <item>Clerks of the Privy-Seal. 
+<list>
+                        <item>Sir <hi>Charles Bickerſtaff,</hi> Kt.</item>
+                        <item>
+                           <hi>John Matthews,</hi> 
+                           <abbr>Eſq</abbr>
+                        </item>
+                        <item>
+                           <hi>Thomas Watkins,</hi> 
+                           <abbr>Eſq</abbr>
+                        </item>
+                        <item>
+                           <hi>John Richards,</hi> 
+                           <abbr>Eſq</abbr>
+                        </item>
+                     </list>
+                  </item>
+               </list>
+               <list>
+                  <item>Clerks of the Signet.
+<list>
+                        <item>Sir <hi>John Nichols,</hi> Kt. of the <hi>B.</hi>
+                        </item>
+                        <item>
+                           <hi>Nicholas Morice,</hi> 
+                           <abbr>Eſq</abbr>
+                        </item>
+                        <item>Dr. <hi>William Trumbold,</hi> Kt.</item>
+                        <item>
+                           <hi>John Gauntlett,</hi> 
+                           <abbr>Eſq</abbr>
+                        </item>
+                     </list>
+                  </item>
+               </list>
+               <list>
+                  <item>Knight Marſhal, Sir <hi>Edward Villers,</hi> Kt.</item>
+                  <item>Uſher of the Black-Rod, Sir <hi>Tho. Duppa,</hi> Kt.</item>
+                  <item>Serjeant Porter, Sir <hi>Henry Progers,</hi> Kt.</item>
+               </list>
+            </div>
+            <div type="part">
+               <head>Of the Band of Gentlemen Penſioners,</head>
+               <list>
+                  <item>
+                     <hi>Theophilus</hi> Earl of <hi>Huntington,</hi> Captain.</item>
+                  <item>
+                     <hi>Francis Villers,</hi> 
+                     <abbr>Eſq</abbr> Lieutenant.</item>
+                  <item>Standard-Bearer, Sir <hi>Thomas Bludworth,</hi> Kt.</item>
+                  <item>
+                     <hi>William Thomas,</hi> 
+                     <abbr>Eſq</abbr> Clerk of the Check.</item>
+               </list>
+               <list>
+                  <item>Captain of the Yeomen of the Guard, <hi>George</hi> Lord Viſcount <hi>Grandiſon.</hi>
+                  </item>
+                  <item>Lieutenant of the ſaid Yeomen, <hi>Thomas Howard,</hi> 
+                     <abbr>Eſq</abbr>
+                  </item>
+                  <item>Exand thereof, <hi>Henry Dutton-Colt,</hi> 
+                     <abbr>Eſq</abbr>
+                  </item>
+                  <item>Clerk of the Check, <hi>Charles Villers,</hi> 
+                     <abbr>Eſq</abbr>
+                  </item>
+               </list>
+            </div>
+            <div type="part">
+               <head>The Kings, Heralds and Purſuivants of Arms, under the Authority of the Earl Marſhal of <hi>England.</hi>
+               </head>
+               <list>
+                  <item>Sir <hi>Thomas St. George,</hi> Kt. Garter Principal King of Arms.</item>
+                  <item>Sir <hi>Henry St. George,</hi> Kt. Clarenceux King of Arms.</item>
+                  <item>Sir <hi>John Dugdale,</hi> Kt. <hi>Norroy</hi> King of Arms.</item>
+                  <item>
+                     <hi>Robert Deveniſh,</hi> 
+                     <abbr>Eſq</abbr> 
+                     <hi>York</hi> Herald.</item>
+                  <item>
+                     <hi>Francis Sandford,</hi> 
+                     <abbr>Eſq</abbr> 
+                     <hi>Lancaſter</hi> Herald.</item>
+                  <item>
+                     <hi>Henry Dethick,</hi> 
+                     <abbr>Eſq</abbr> 
+                     <hi>Richmond</hi> Herald.</item>
+                  <item>
+                     <hi>Thomas May,</hi> 
+                     <abbr>Eſq</abbr> 
+                     <hi>Cheſter</hi> Herald.</item>
+                  <item>
+                     <hi>Francis Burghill,</hi> 
+                     <abbr>Eſq</abbr> 
+                     <hi>Somerſet</hi> Herald.</item>
+                  <item>
+                     <hi>Henry Ball,</hi> 
+                     <abbr>Eſq</abbr> 
+                     <hi>Windſor</hi> Herald.</item>
+                  <item>
+                     <hi>Tho. Holford, Portcullis</hi> Purſuivant at Arms.</item>
+                  <item>
+                     <hi>John Gibbon, Blue-Mantle</hi> Purſuivant at Arms.</item>
+                  <item>
+                     <hi>Gr. King, Rouge-Dragon</hi> Purſuivant at Arms.</item>
+                  <item>
+                     <hi>Ch. Mawſon, Rouge-Croix</hi> Purſuivant at Arms.</item>
+               </list>
+               <list>
+                  <item>Secretary to the Earl Marſhal, <hi>Francis Negus.</hi>
+                  </item>
+               </list>
+            </div>
+            <div type="part">
+               <head>The Judges and Principal Officers of the Courts of Juſtice, and firſt of the High Court of <hi>Chancery.</hi>
+               </head>
+               <list>
+                  <item>
+                     <hi>George</hi> Lord <hi>Jeffreys,</hi> Lord High Chancel<g ref="char:EOLhyphen"/>lor of <hi>England.</hi>
+                  </item>
+                  <item>Maſter of the Rolls, Sir <hi>John Trevor,</hi> Kt. Speaker to the Houſe of Commons.</item>
+               </list>
+               <list>
+                  <head>The <hi>11</hi> Maſter in Chancery.</head>
+                  <item>Sir <hi>W. Beverſham,</hi> Kt.</item>
+                  <item>Sir <hi>Sam. Clarke,</hi> Kt.</item>
+                  <item>Sir <hi>Miles Cooke,</hi> Kt.</item>
+                  <item>Sir <hi>Lac. Will. Child,</hi> Kt</item>
+                  <item>Sir <hi>John Hoskins,</hi> Kt.</item>
+                  <item>Sir <hi>John Franklin,</hi> Kt.</item>
+                  <item>Sir <hi>Adam Otley,</hi> Kt.</item>
+                  <item>Sir <hi>Rob. Le Guard,</hi> Kt</item>
+                  <item>Sir <hi>James Aſtrey,</hi> Kt.</item>
+                  <item>
+                     <hi>John Methwin,</hi> 
+                     <abbr>Eſq</abbr>
+                  </item>
+                  <item>
+                     <hi>John Edsbury,</hi> D. L.</item>
+               </list>
+               <list>
+                  <item>Clerk of the Crown, <hi>Henry Barker,</hi> 
+                     <abbr>Eſq</abbr>
+                  </item>
+                  <item>Prothonotary, <hi>Jonathan Goſteler Snow.</hi>
+                  </item>
+               </list>
+               <list>
+                  <head>Six Clerks.</head>
+                  <item>Sir <hi>William Perkins.</hi>
+                  </item>
+                  <item>
+                     <hi>Shem Bridges,</hi> 
+                     <abbr>Eſq</abbr>
+                  </item>
+                  <item>Sir <hi>Robert Marſham.</hi>
+                  </item>
+                  <item>
+                     <hi>Ric. Garth,</hi> 
+                     <abbr>Eſq</abbr>
+                  </item>
+                  <item>
+                     <hi>Littleton Powis,</hi> 
+                     <abbr>Eſq</abbr>
+                  </item>
+                  <item>
+                     <hi>Arnold Brown,</hi> 
+                     <abbr>Eſq</abbr>
+                  </item>
+               </list>
+            </div>
+            <div type="part">
+               <head>Of the <hi>Kings-Bench.</hi>
+               </head>
+               <list>
+                  <item>Sir <hi>Edward Herbert,</hi> Kt. Lord Chief Ju<g ref="char:EOLhyphen"/>ſtice of <hi>England.</hi>
+                  </item>
+                  <item>Sir <hi>Francis Withens,</hi> Kt.</item>
+                  <item>Sir <hi>Richard Holloway,</hi> Kt.</item>
+                  <item>Sir <hi>Robert Wright,</hi> Kt.</item>
+               </list>
+               <list>
+                  <item>Maſter of the Kings-Bench, Sir <hi>Robert Hen<g ref="char:EOLhyphen"/>ley,</hi> Kt.</item>
+                  <item>Marſhal of the Kings-Bench, <hi>H. Glover,</hi> 
+                     <abbr>Eſq</abbr>
+                  </item>
+               </list>
+            </div>
+            <div type="part">
+               <head>Of the <hi>Common-Pleas.</hi>
+               </head>
+               <list>
+                  <item>Sir <hi>Henry Bedingfield,</hi> Kt. L. Chief Juſtice.</item>
+                  <item>Sir <hi>Thomas Street,</hi> Kt.</item>
+                  <item>Sir <hi>Edward Lutwich,</hi> Kt.</item>
+                  <item>Sir <hi>John Powell,</hi> Kt.</item>
+               </list>
+               <list>
+                  <head>Prothonotaries.</head>
+                  <item>
+                     <hi>John Coke,</hi> 
+                     <abbr>Eſq</abbr>
+                  </item>
+                  <item>
+                     <hi>Thomas Winford,</hi> 
+                     <abbr>Eſq</abbr>
+                  </item>
+               </list>
+            </div>
+            <div type="part">
+               <head>Of the <hi>Exchequer.</hi>
+               </head>
+               <list>
+                  <item>
+                     <hi>Laurence</hi> E. of <hi>Rocheſter,</hi> L. High-Treaſurer.</item>
+                  <item>Sir <hi>John Earnley,</hi> Kt. Chancellor, and un<g ref="char:EOLhyphen"/>der-Treaſurer.</item>
+                  <item>Sir <hi>Edward Atkins,</hi> Kt. Lord Chief Baron.</item>
+                  <item>Barons.
+<list>
+                        <item>Sir <hi>Thomas Jenner,</hi> Kt. </item>
+                        <item>
+                           <hi>Richard Heath,</hi> 
+                           <abbr>Eſq</abbr>
+                        </item>
+                        <item>Sir <hi>Chriſtopher Milton,</hi> Kt.</item>
+                        <item>Sir <hi>Richard May,</hi> Kt.</item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>Evelin</hi> Viſcount <hi>Fanſhaw,</hi> the King's Re<g ref="char:EOLhyphen"/>membrancer of that Court.</item>
+                  <item>Sir <hi>John Osborn,</hi> Kt. the Lord Treaſurer's Remembrancer of that Court.</item>
+               </list>
+               <list>
+                  <item>Attorney General, Sir <hi>Rob. Sawyer,</hi> Kt.</item>
+                  <item>Sollicitor General Sir <hi>Tho. Powis,</hi> Kt.</item>
+               </list>
+            </div>
+            <div type="part">
+               <head>Clerks of the Petty-Bag.</head>
+               <list>
+                  <item>
+                     <hi>Aaron Pingrey,</hi> 
+                     <abbr>Eſq</abbr>
+                  </item>
+                  <item>
+                     <hi>James Bennet,</hi> 
+                     <abbr>Eſq</abbr>
+                  </item>
+                  <item>
+                     <hi>John Lloyd,</hi> 
+                     <abbr>Eſq</abbr>
+                  </item>
+               </list>
+               <list>
+                  <head>Examiners.</head>
+                  <item>
+                     <hi>Francis Twiſden,</hi> 
+                     <abbr>Eſq</abbr>
+                  </item>
+                  <item>
+                     <hi>Thomas Read,</hi> 
+                     <abbr>Eſq</abbr>
+                  </item>
+               </list>
+            </div>
+            <div type="part">
+               <head>The Court of the Dutchey of <hi>Lancaſter.</hi>
+               </head>
+               <list>
+                  <item>The Chancellor, Sir <hi>Thomas Chichley.</hi>
+                  </item>
+                  <item>Vice-Chancellor, Sir <hi>John Otway.</hi>
+                  </item>
+                  <item>Attorney General, Sir <hi>John Heath.</hi>
+                  </item>
+                  <item>Receiver General, Sir <hi>John Curſon.</hi>
+                  </item>
+                  <item>Auditors, 
+<list>
+                        <item>
+                           <hi>John Fanſhaw,</hi> 
+                           <abbr>Eſq</abbr>
+                        </item>
+                        <item>
+                           <hi>Richard Marriot,</hi> 
+                           <abbr>Eſq</abbr>
+                        </item>
+                     </list>
+                  </item>
+                  <item>Clerk, <hi>Cheek Gerrard,</hi> 
+                     <abbr>Eſq</abbr>
+                  </item>
+               </list>
+            </div>
+            <div type="part">
+               <head>Judges of the Principality of <hi>Wales.</hi>
+               </head>
+               <list>
+                  <item>Sir <hi>Job Charleton,</hi> Kt. Serjeant at Law, and Chief Juſtice of <hi>Cheſter.</hi>
+                  </item>
+                  <item>
+                     <hi>John Warren,</hi> 
+                     <abbr>Eſq</abbr>
+                  </item>
+                  <item>Sir <hi>Richard Hopton,</hi> Kt.</item>
+                  <item>
+                     <hi>Thomas Powel,</hi> 
+                     <abbr>Eſq</abbr> Serjeant at Law.</item>
+                  <item>
+                     <gap reason="blank" extent="1 word">
+                        <desc> _____ </desc>
+                     </gap>
+                     <hi>Wynn,</hi> 
+                     <abbr>Eſq</abbr> Serjeant at Law.</item>
+                  <item>
+                     <hi>Anthony Farington,</hi> Serjeant at Law.</item>
+               </list>
+            </div>
+            <div type="part">
+               <head>Surveyor of the Preſs.</head>
+               <list>
+                  <item>Sir <hi>Roger L'Eſtrange,</hi> Kt.</item>
+               </list>
+            </div>
+            <div type="part">
+               <head>The Commiſſioners of the Cuſtoms.</head>
+               <list>
+                  <item>
+                     <hi>Charles</hi> Lord <hi>Chene.</hi>
+                  </item>
+                  <item>Sir <hi>Dudley North.</hi>
+                  </item>
+                  <item>Sir <hi>John Worden.</hi>
+                  </item>
+                  <item>Sir <hi>Nicholas Butler.</hi>
+                  </item>
+                  <item>Sir <hi>John Buckworth.</hi>
+                  </item>
+                  <item>
+                     <hi>Will. Dickenſon,</hi> 
+                     <abbr>Eſq</abbr>
+                  </item>
+                  <item>
+                     <hi>Thomas Chudley,</hi> 
+                     <abbr>Eſq</abbr>
+                  </item>
+                  <item>
+                     <hi>Samuel Clark,</hi> 
+                     <abbr>Eſq</abbr>
+                  </item>
+                  <item>
+                     <hi>John Sa<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſon,</hi> Secretary.</item>
+               </list>
+            </div>
+            <div type="part">
+               <head>Commiſſioners and Governors of His Majeſty's Exciſe and Hearth.</head>
+               <list>
+                  <item>Sir <hi>Denny Aſhburnham,</hi> Bar.</item>
+                  <item>
+                     <hi>Francis Parry,</hi> 
+                     <abbr>Eſq</abbr>
+                  </item>
+                  <item>
+                     <hi>Charles Davenant,</hi> D. L.</item>
+                  <item>Sir <hi>John Friend,</hi> Kt.</item>
+                  <item>
+                     <hi>Felix Calvert,</hi> 
+                     <abbr>Eſq</abbr>
+                  </item>
+                  <item>
+                     <hi>Nathanael Hornby,</hi> 
+                     <abbr>Eſq</abbr>
+                  </item>
+                  <item>
+                     <hi>Richard Grayham,</hi> 
+                     <abbr>Eſq</abbr>
+                  </item>
+               </list>
+            </div>
+            <div type="part">
+               <head>Commiſſioners for Wine-Licences.</head>
+               <list>
+                  <item>
+                     <hi>Henry Deering,</hi> 
+                     <abbr>Eſq</abbr>
+                  </item>
+                  <item>
+                     <hi>William Young,</hi> 
+                     <abbr>Eſq</abbr>
+                  </item>
+                  <item>
+                     <hi>Michael Brighouſe,</hi> 
+                     <abbr>Eſq</abbr>
+                  </item>
+                  <item>
+                     <hi>Robert Reeves,</hi> 
+                     <abbr>Eſq</abbr>
+                  </item>
+               </list>
+            </div>
+            <div type="part">
+               <head>Commiſſioners of Appeal for Exciſe.</head>
+               <list>
+                  <item>
+                     <hi>Robert Spencer,</hi> 
+                     <abbr>Eſq</abbr>
+                  </item>
+                  <item>
+                     <hi>Charles Fanſhaw,</hi> 
+                     <abbr>Eſq</abbr>
+                  </item>
+                  <item>
+                     <hi>George Doddington,</hi> 
+                     <abbr>Eſq</abbr>
+                  </item>
+                  <item>
+                     <hi>Edward Seymour,</hi> 
+                     <abbr>Eſq</abbr>
+                  </item>
+               </list>
+            </div>
+            <div type="part">
+               <list>
+                  <item>Poſt-Maſter General, <hi>Laurence</hi> E. of <hi>Rocheſter.</hi>
+                  </item>
+                  <item>Manager, <hi>Philip Frowd,</hi> 
+                     <abbr>Eſq</abbr>
+                  </item>
+               </list>
+            </div>
+            <div type="part">
+               <head>Of the High Court of Admiralty.</head>
+               <list>
+                  <item>Lord High-Admiral is in the Kings hands.</item>
+                  <item>Vice-Admiral, <hi>Henry</hi> Duke of <hi>Grafton.</hi>
+                  </item>
+                  <item>Rere-Admiral, <hi>Arthur Herbert,</hi> 
+                     <abbr>Eſq</abbr>
+                  </item>
+                  <item>Judge of the Admiralty, <hi>Rich. Reynes,</hi> D. L.</item>
+               </list>
+            </div>
+            <div type="part">
+               <head>The Commiſſioners for the Navy-Office.</head>
+               <list>
+                  <item>Treaſurer, <hi>Anthony</hi> Viſcount <hi>Faulkland.</hi>
+                  </item>
+                  <item>Sir <hi>Anthony Dean.</hi>
+                  </item>
+                  <item>Sir <hi>John Narborow.</hi>
+                  </item>
+                  <item>Sir <hi>John Godwin.</hi>
+                  </item>
+                  <item>Sir <hi>John Berry.</hi>
+                  </item>
+                  <item>Mr. <hi>Hewer.</hi>
+                  </item>
+                  <item>
+                     <hi>Samuel Pepps,</hi> 
+                     <abbr>Eſq</abbr> Secretary.</item>
+                  <item>Sir <hi>Richard Beach.</hi> Portſmouth.</item>
+                  <item>Sir <hi>Phineas Pett.</hi> Chatham.</item>
+                  <item>Mr. <hi>St. Michael.</hi> Deptford.</item>
+               </list>
+            </div>
+            <div type="part">
+               <head>The Principal Officers of the <hi>Tower.</hi>
+               </head>
+               <list>
+                  <item>Lieutenant, <hi>Thomas Cheeks,</hi> 
+                     <abbr>Eſq</abbr>
+                  </item>
+                  <item>Maſter of the Ordnance, <hi>Geo.</hi> L. <hi>Dartmouth.</hi>
+                  </item>
+                  <item>Lieutenant of the Ord. Sir <hi>Chriſt. Muſgrave.</hi>
+                  </item>
+                  <item>Surveyor of the Ord. Sir <hi>M. Beckman.</hi>
+                  </item>
+                  <item>Treaſurer of the Ordnance, <hi>Ch. Bertie,</hi> 
+                     <abbr>Eſq</abbr>
+                  </item>
+                  <item>Clerk, Sir <hi>Edward Sherbourn,</hi> Kt.</item>
+                  <item>Store-Keeper, <hi>Thomas Guardner.</hi>
+                  </item>
+                  <item>Keeper of the Records, Sir <hi>Algernon May.</hi>
+                  </item>
+                  <item>Warden of the Mint, Dr. <hi>Wyn.</hi>
+                  </item>
+                  <item>Maſter Worker of the Mint, Mr. <hi>Neal.</hi>
+                  </item>
+                  <item>Chief Engineer, Sir <hi>M. Beckman.</hi>
+                  </item>
+                  <item>2<hi>d</hi> —Sir <hi>Henry Shiers.</hi>
+                  </item>
+                  <item>3<hi>d</hi> —<hi>Jacob Richards,</hi> 
+                     <abbr>Eſq</abbr>
+                  </item>
+                  <item>Aſſiſtant, Mr. <hi>Rothwell.</hi>
+                  </item>
+                  <item>Maſter Gunner, Mr. <hi>Leake.</hi>
+                  </item>
+               </list>
+            </div>
+            <div type="part">
+               <list>
+                  <item>Surveyor General of His Majeſty's Lands, <hi>William Harbord,</hi> 
+                     <abbr>Eſq</abbr>
+                  </item>
+                  <item>— of His Majeſty's Foreſts, <hi>Agar,</hi> 
+                     <abbr>Eſq</abbr>
+                  </item>
+               </list>
+            </div>
+            <div type="part">
+               <head>The Magiſtrates and Principal Officers relating to the City of <hi>London.</hi>
+               </head>
+               <list>
+                  <item>Sir <hi>John Peake,</hi> Kt. Lord Mayor.</item>
+                  <item>Sir <hi>William Turner,</hi> Kt. &amp; Alderman,</item>
+                  <item>Sir <hi>William Hooker,</hi> Kt. &amp; Ald.</item>
+                  <item>Sir <hi>John More,</hi> Kt. &amp; Ald.</item>
+                  <item>Sir <hi>William Pritchard,</hi> Kt. &amp; Ald.</item>
+                  <item>Sir <hi>Henry Tulſe,</hi> Kt. &amp; Ald.</item>
+                  <item>Sir <hi>James Smith,</hi> Kt. &amp; Ald.</item>
+                  <item>Sir <hi>Robert Jefferyes,</hi> Kt. &amp; Ald.</item>
+                  <item>Sir <hi>John Holt,</hi> Recorder.</item>
+                  <item>Sir <hi>John Chapman,</hi> Kt. &amp; Ald.</item>
+                  <item>Sir <hi>Simon Lewis,</hi> Kt. &amp; Ald.</item>
+                  <item>Sir <hi>Jonathan Raymond,</hi> Kt. &amp; Ald.</item>
+                  <item>Sir <hi>Peter Daniel,</hi> Kt. &amp; Ald.</item>
+                  <item>Sir <hi>Peter Rich,</hi> Kt. &amp; Ald.</item>
+                  <item>Sir <hi>Samuel Daſhwood,</hi> Kt. &amp; Ald.</item>
+                  <item>Sir <hi>Benjamin Newland,</hi> Kt. &amp; Ald.</item>
+                  <item>
+                     <hi>Peter Paravicini,</hi> 
+                     <abbr>Eſq</abbr> Ald.</item>
+                  <item>Sir <hi>Benjamin Thorowgood,</hi> Kt. &amp; Ald.</item>
+                  <item>Sir <hi>William Goſling,</hi> Kt. &amp; Ald.</item>
+                  <item>Sir <hi>Peter Vandeput,</hi> Kt. &amp; Ald.</item>
+                  <item>Sir <hi>Thomas Kenſey,</hi> Kt. &amp; Ald.</item>
+                  <item>Sir <hi>Matthew Vincent,</hi> Kt. &amp; Ald.</item>
+                  <item>Sir <hi>William Ruſſel,</hi> Kt. &amp; Ald.</item>
+                  <item>Alderman <hi>Herne.</hi>
+                  </item>
+                  <item>Alderman <hi>Hartopp.</hi>
+                  </item>
+                  <item>Sheriffs.
+<list>
+                        <item>Sir <hi>Thomas Rawlinſon,</hi> Kt. </item>
+                        <item>Sir <hi>Thomas Fowles,</hi> Kt.</item>
+                     </list>
+                  </item>
+                  <item>Sir <hi>Peter Rich,</hi> Chamberlain.</item>
+                  <item>
+                     <hi>Henry Criſpe,</hi> 
+                     <abbr>Eſq</abbr> Common Serjeant.</item>
+                  <item>
+                     <hi>William Wagſtaff,</hi> 
+                     <abbr>Eſq</abbr> Town-Clerk.</item>
+                  <item>
+                     <hi>Joſeph Lane,</hi> 
+                     <abbr>Eſq</abbr> Vice-Chamberlain.</item>
+                  <item>City Council.
+<list>
+                        <item>Mr. <hi>Goodfellow.</hi> 
+                        </item>
+                        <item>Mr. <hi>Munday.</hi>
+                        </item>
+                        <item>Mr. <hi>Dee.</hi>
+                        </item>
+                        <item>Mr. <hi>
+                              <g ref="char:V">Ʋ</g>pton.</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <item>Secundaries.
+<list>
+                        <item>Mr. <hi>Trotman.</hi>
+                        </item>
+                        <item>Mr. <hi>Normanſell.</hi>
+                        </item>
+                     </list>
+                  </item>
+               </list>
+            </div>
+            <div type="part">
+               <head>His Majeſty's Lieutenants of the ſeve<g ref="char:EOLhyphen"/>ral Counties of <hi>England.</hi>
+               </head>
+               <list>
+                  <item>Bedford, <hi>Thomas</hi> Earl of <hi>Ailesbury.</hi>
+                  </item>
+                  <item>Berks, <hi>Henry</hi> Duke of <hi>Norfolk.</hi>
+                  </item>
+                  <item>Briſtol, <hi>Henry</hi> Duke of <hi>Beaufort.</hi>
+                  </item>
+                  <item>Bucks, <hi>John</hi> Earl of <hi>Bridgwater.</hi>
+                  </item>
+                  <item>Cambridge, <hi>Henry</hi> Lord <hi>Dover.</hi>
+                  </item>
+                  <item>Cheſter, <hi>Caril</hi> Lord <hi>Moleneux.</hi>
+                  </item>
+                  <item>Cornwal, <hi>John</hi> Earl of <hi>Bath.</hi>
+                  </item>
+                  <item>Cumberland, <hi>Charles</hi> Earl of <hi>Carliſle.</hi>
+                  </item>
+                  <item>Derby, <hi>Robert</hi> Earl of <hi>Searſdale.</hi>
+                  </item>
+                  <item>Devonſhire, <hi>Charles</hi> Duke of <hi>Albemarle.</hi>
+                  </item>
+                  <item>Dorſet, <hi>John</hi> Earl of <hi>Briſtol.</hi>
+                  </item>
+                  <item>Durham, <hi>Nathanael</hi> Lord Biſhop of <hi>Durham,</hi>
+                  </item>
+                  <item>Eſſex, <hi>Chriſtopher</hi> Duke of <hi>Albemarle.</hi>
+                  </item>
+                  <item>Glouceſter, <hi>Henry</hi> Duke of <hi>Beaufort.</hi>
+                  </item>
+                  <item>Hereford, <hi>Henry</hi> Duke of <hi>Beaufort.</hi>
+                  </item>
+                  <item>Hertford, <hi>John</hi> Earl of <hi>Bridgwater.</hi>
+                  </item>
+                  <item>Huntington, <hi>Thomas</hi> Earl of <hi>Ailesbury.</hi>
+                  </item>
+                  <item>Kent, <hi>Heneage</hi> Earl of <hi>Wincheſter.</hi>
+                  </item>
+                  <item>Lancaſter, <hi>Caril</hi> Lord <hi>Moleneux.</hi>
+                  </item>
+                  <item>Leiceſter, <hi>John</hi> Earl of <hi>Rutland.</hi>
+                  </item>
+                  <item>Lincoln, <hi>Robert</hi> Earl of <hi>Lyndſey.</hi>
+                  </item>
+                  <item>Middleſex, <hi>William</hi> Earl of <hi>Craven.</hi>
+                  </item>
+                  <item>Monmouth, <hi>Henry</hi> Duke of <hi>Beaufort.</hi>
+                  </item>
+                  <item>Norfolk, <hi>Henry</hi> Duke of <hi>Norfolk.</hi>
+                  </item>
+                  <item>Northampton, <hi>Henry</hi> Earl of <hi>Peterborow.</hi>
+                  </item>
+                  <item>Northumberland, <hi>Henry</hi> Duke of <hi>Newcaſtle.</hi>
+                  </item>
+                  <item>Nottingham, <hi>Henry</hi> Duke of <hi>Newcaſtle.</hi>
+                  </item>
+                  <item>Oxford, <hi>James</hi> Earl of <hi>Abingdon.</hi>
+                  </item>
+                  <item>Purbeck Iſle, <hi>Henry</hi> Duke of <hi>Beaufort.</hi>
+                  </item>
+                  <item>Rutland, <hi>Edward</hi> Earl of <hi>Gainsborough.</hi>
+                  </item>
+                  <item>Salop, <hi>Francis</hi> Viſcount <hi>Newport.</hi>
+                  </item>
+                  <item>Somerſet, <hi>Charles</hi> Duke of <hi>Somerſet.</hi>
+                  </item>
+                  <item>Southampton, <hi>Wriotheſly Baptiſt</hi> Viſ. <hi>Cambden</hi>
+                  </item>
+                  <item>Southwark, <hi>William</hi> Earl of <hi>Craven.</hi>
+                  </item>
+                  <item>Stafford, <hi>Charles</hi> Earl of <hi>Shrewsbury.</hi>
+                  </item>
+                  <item>Suffolk, <hi>Henry</hi> Duke of <hi>Grafton.</hi>
+                  </item>
+                  <item>Surrey, <hi>Henry</hi> Duke of <hi>Norfolk.</hi>
+                  </item>
+                  <item>Suſſex, <hi>Char<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>es</hi> Earl of <hi>Dorſet</hi> &amp; <hi>Middleſex.</hi>
+                  </item>
+                  <item>Tower and the Hamlets, <hi>Will.</hi> L. <hi>Alington.</hi>
+                  </item>
+                  <item>Wales and the Marches, <hi>H.</hi> Duke of <hi>Beaufort.</hi>
+                  </item>
+                  <item>Warwick, <hi>Fulk<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </hi> Lord <hi>Brocke.</hi>
+                  </item>
+                  <item>Weſtmorland, <hi>Thomas</hi> Earl of <hi>Thanet.</hi>
+                  </item>
+                  <item>Wilts, <hi>Thomas</hi> Earl of <hi>Pembroke</hi> and <hi>Mont.</hi>
+                  </item>
+                  <item>Worceſter, <hi>Thomas</hi> Earl of <hi>Plymouth.</hi>
+                  </item>
+                  <item>York, Eaſt Riding, <hi>Char.</hi> Duke of <hi>Somerſet.</hi>
+                  </item>
+                  <item>—Weſt Riding, <hi>Rich.</hi> Earl of <hi>Burlington.</hi>
+                  </item>
+                  <item>—North Riding, <hi>Tho.</hi> Viſc. <hi>Falconbridge.</hi>
+                  </item>
+               </list>
+            </div>
+            <div type="part">
+               <head>Governors of His Majeſty's Forts, Gar<g ref="char:EOLhyphen"/>riſons, Iſlands &amp; foreign Plantations.</head>
+               <list>
+                  <item>Barbadoes, Sir <hi>Richard Dutton,</hi> Kt.</item>
+                  <item>Berwick, <hi>Henry</hi> Duke of <hi>Newcaſtle.</hi>
+                  </item>
+                  <item>Carliſle, Sir <hi>Chiſtopher Muſgrave,</hi> Kt.</item>
+                  <item>Chepſtow Caſtle, <hi>Henry</hi> Duke of <hi>Beaufort.</hi>
+                  </item>
+                  <item>Cheſter City, Sir <hi>James Poole,</hi> Kt.</item>
+                  <item>Dover &amp; the Cinque Ports, Sir <hi>Edw. Hales.</hi>
+                  </item>
+                  <item>Graveſend and Tilbury Camp, <hi>Sackvil Tuf<g ref="char:EOLhyphen"/>ton,</hi> 
+                     <abbr>Eſq</abbr>
+                  </item>
+                  <item>Guernſey, <hi>Chriſtopher</hi> Viſcount <hi>Hatton.</hi>
+                  </item>
+                  <item>Holy-Iſland, Sir <hi>John Fenwick,</hi> Baronet.</item>
+                  <item>Hull, <hi>Thomas</hi> Earl of <hi>Plymouth.</hi>
+                  </item>
+                  <item>Jamaica, Sir <hi>Thomas Lynch,</hi> Kt.</item>
+                  <item>Jerſey Iſland, <hi>Thomas</hi> Lord <hi>Jermin.</hi>
+                  </item>
+                  <item>Ireland, <hi>Henry</hi> Earl of <hi>Clarendon.</hi>
+                  </item>
+                  <item>Langvard Fort, Sir <hi>Roger Manley,</hi> Kt.</item>
+                  <item>Leward Iſlands, Sir <hi>Nathanael Johnſon,</hi> Kt.</item>
+                  <item>St. Maws Caſtle, Sir <hi>Joſeph Tredenham,</hi> Kt.</item>
+                  <item>Mary-Land, <hi>John</hi> Lord <hi>Baltamore.</hi>
+                  </item>
+                  <item>New-England, Sir <hi>Edmond Andres,</hi> Kt.</item>
+                  <item>Pendennis Caſtle, <hi>Richard</hi> Lord <hi>Arundel.</hi>
+                  </item>
+                  <item>Plymouth, and St. Nicholas's Iſland, <hi>John</hi> Earl of <hi>Bath.</hi>
+                  </item>
+                  <item>Portſmouth, <hi>Edward</hi> Earl of <hi>Gainsborough.</hi>
+                  </item>
+                  <item>Sandown Caſtle, Sir <hi>Abraham Jacob.</hi>
+                  </item>
+                  <item>Sheerneſs, Sir <hi>Charles Littleton,</hi> Kt.</item>
+                  <item>Scilly Iſland, Captain <hi>Godolphin.</hi>
+                  </item>
+                  <item>Scarborough Caſtle, Sir <hi>Tho. Slingsby,</hi> Bar.</item>
+                  <item>Tinmouth, Sir. <hi>Edward Villers,</hi> Kt.</item>
+                  <item>Virginia, <hi>Francis</hi> Lord <hi>Howard</hi> of <hi>Effingham.</hi>
+                  </item>
+                  <item>Upnor Caſtle, <hi>Robert Minors,</hi> 
+                     <abbr>Eſq</abbr>
+                  </item>
+                  <item>Iſle of Wight, Sir <hi>Robert Holmes,</hi> Kt.</item>
+                  <item>Windſor Caſtle, Conſtable, <hi>Henry</hi> Duke of <hi>Norfolk.</hi>
+                  </item>
+                  <item>York Caſtle, Sir <hi>John Reresby,</hi> Bar.</item>
+               </list>
+            </div>
+            <div type="part">
+               <head>General Officers.</head>
+               <list>
+                  <item>Commiſſary General of the Muſters, <hi>Henry Howard,</hi> 
+                     <abbr>Eſq</abbr>
+                  </item>
+                  <item>Pay Maſter General, The Lord <hi>Ranelaugh.</hi>
+                  </item>
+                  <item>Secretary at War, <hi>Will. Blaithwaite,</hi> 
+                     <abbr>Eſq</abbr>
+                  </item>
+                  <item>Judge Advocate <hi>George Clarke,</hi> 
+                     <abbr>Eſq</abbr>
+                  </item>
+               </list>
+            </div>
+            <div type="part">
+               <head>The Names of the Field-Officers of the ſeveral Regiments of Horſe and Foot, as they lay Encamped on <hi>Hounſloe-Heath,</hi> in the County of <hi>Middleſex,</hi> in the Year, <hi>1686.</hi>
+               </head>
+               <div type="section">
+                  <head>The Field Officers belonging to the Five Regiments of Horſe on the Right Wing.</head>
+                  <list>
+                     <head>1.</head>
+                     <item>Colonel, <hi>Aubrey</hi> Earl of <hi>Oxford.</hi>
+                     </item>
+                     <item>Lieutenant Colonel, Sir <hi>Francis Compton.</hi>
+                     </item>
+                     <item>Major, <hi>Littleton.</hi>
+                     </item>
+                  </list>
+                  <list>
+                     <head>2.</head>
+                     <item>Colonel, Major General <hi>Worthin.</hi>
+                     </item>
+                     <item>Lieutenant Colonel, <hi>Bernard Howard,</hi> 
+                        <abbr>Eſq</abbr>
+                     </item>
+                     <item>Major <hi>Conningham.</hi>
+                     </item>
+                  </list>
+                  <list>
+                     <head>3.</head>
+                     <item>Colonel, <hi>Richard</hi> Lord <hi>Lumley.</hi>
+                     </item>
+                     <item>Lieutenant Colonel <hi>Vernon.</hi>
+                     </item>
+                     <item>Major <hi>Morgan.</hi>
+                     </item>
+                  </list>
+                  <list>
+                     <head>4.</head>
+                     <item>Colonel, <hi>Charles</hi> Earl of <hi>Shrewsbury.</hi>
+                     </item>
+                     <item>Lieutenant Colonel <hi>Coy.</hi>
+                     </item>
+                     <item>Major <hi>Scelton.</hi>
+                     </item>
+                  </list>
+                  <list>
+                     <head>5.</head>
+                     <item>Colonel, <hi>Henry</hi> Earl of <hi>Peterborow.</hi>
+                     </item>
+                     <item>Lieutenant Colonel, Sir <hi>John Talbot.</hi>
+                     </item>
+                     <item>Major <hi>Chetton.</hi>
+                     </item>
+                  </list>
+               </div>
+               <div type="section">
+                  <head>The Foot Guards.</head>
+                  <div type="section">
+                     <head>The King's Two Battalions commanded by</head>
+                     <list>
+                        <item>Colonel, <hi>Henry</hi> Duke of <hi>Grafton.</hi>
+                        </item>
+                        <item>Lieutenant Colonel <hi>Eaton.</hi>
+                        </item>
+                        <item>Major <hi>Haſtings.</hi>
+                        </item>
+                     </list>
+                     <list>
+                        <head>2.</head>
+                        <item>Colonel, <hi>William</hi> Earl of <hi>Craven.</hi>
+                        </item>
+                        <item>Lieutenant Colonel <hi>Sackvill.</hi>
+                        </item>
+                        <item>Major <hi>Hewetſon.</hi>
+                        </item>
+                     </list>
+                     <list>
+                        <head>3.</head>
+                        <item>Colonel, <hi>William</hi> Marqueſs of <hi>Douglaſs.</hi>
+                        </item>
+                        <item>Lieutenant Colonel <hi>Wondrom.</hi>
+                        </item>
+                        <item>Major <hi>More.</hi>
+                        </item>
+                     </list>
+                     <list>
+                        <head>4.</head>
+                        <item>Colonel, Sir <hi>Charles Littleton.</hi>
+                        </item>
+                        <item>Lieutenant Colonel <hi>Nicholas.</hi>
+                        </item>
+                        <item>Major <hi>Baggott.</hi>
+                        </item>
+                     </list>
+                     <list>
+                        <head>5.</head>
+                        <item>Colonel, Sir <hi>Theophilus Oglethorp.</hi>
+                        </item>
+                        <item>Lieutenant Colonel, <hi>Robert</hi> Lord <hi>Hunſdon.</hi>
+                        </item>
+                        <item>Major <hi>Starling.</hi>
+                        </item>
+                     </list>
+                     <list>
+                        <head>6.</head>
+                        <item>Colonel, <hi>Theophilus</hi> Earl of <hi>Huntington.</hi>
+                        </item>
+                        <item>Lieutenant Colonel, <hi>Ferdinando Haſtings.</hi>
+                        </item>
+                        <item>Major <hi>Morgan.</hi>
+                        </item>
+                     </list>
+                     <list>
+                        <head>7.</head>
+                        <item>Colonel, <hi>Edward-Henry</hi> Earl of <hi>Litchfield.</hi>
+                        </item>
+                        <item>Lieutenant Colonel <hi>Salisbury.</hi>
+                        </item>
+                        <item>Major <hi>Traps.</hi>
+                        </item>
+                     </list>
+                     <list>
+                        <head>8.</head>
+                        <item>Colonel, <hi>Charles</hi> Marqueſs of <hi>Worceſter.</hi>
+                        </item>
+                        <item>Lieutenant Colonel, Sir <hi>John Hanmer.</hi>
+                        </item>
+                        <item>Major <hi>Car.</hi>
+                        </item>
+                     </list>
+                     <list>
+                        <head>9.</head>
+                        <item>Colonel, <hi>John</hi> Earl of <hi>Bath.</hi>
+                        </item>
+                        <item>Lieutenant Colonel, Sir <hi>Nicholas Slaning.</hi>
+                        </item>
+                        <item>Major, Sir <hi>Charles Carney.</hi>
+                        </item>
+                     </list>
+                     <list>
+                        <head>10.</head>
+                        <item>Colonel, <gap reason="blank" extent="1 word">
+                              <desc> _____ </desc>
+                           </gap> 
+                           <hi>Kirk.</hi>
+                        </item>
+                        <item>Lieutenant Colonel, <hi>Philip Kirk.</hi>
+                        </item>
+                        <item>Major, Sir <hi>James Laſhley,</hi>
+                        </item>
+                     </list>
+                     <list>
+                        <head>11.</head>
+                        <item>Colonel, <hi>George Douglas,</hi> Earl of <hi>Dumbarton.</hi>
+                        </item>
+                        <item>Lieutenant Colonel <hi>Archibald.</hi>
+                        </item>
+                        <item>Major <hi>Douglas.</hi>
+                        </item>
+                     </list>
+                  </div>
+                  <div type="section">
+                     <head>The Fuzeliers in Battalia, Commanded by</head>
+                     <list>
+                        <item>Colonel, <hi>George</hi> Lord <hi>Dartmouth.</hi>
+                        </item>
+                        <item>Lieutenant Colonel <hi>Saintclare.</hi>
+                        </item>
+                        <item>Major <hi>Soaper.</hi>
+                        </item>
+                     </list>
+                  </div>
+               </div>
+               <div type="section">
+                  <head>The Four Regiments of Horſe Encamped on the Left Wind.</head>
+                  <list>
+                     <head>1.</head>
+                     <item>Colonel, <hi>Thomas</hi> Earl of <hi>Plymouth.</hi>
+                     </item>
+                     <item>Lieutenant Colonel <hi>Sunderland.</hi>
+                     </item>
+                     <item>Major <hi>Walden.</hi>
+                     </item>
+                  </list>
+                  <list>
+                     <head>2.</head>
+                     <item>Colonel, <hi>Robert</hi> Earl of <hi>Scareſdale.</hi>
+                     </item>
+                     <item>Lieutenant Colonel <hi>Langſtone.</hi>
+                     </item>
+                     <item>Major <hi>Norton.</hi>
+                     </item>
+                  </list>
+                  <list>
+                     <head>3.</head>
+                     <item>Colonel, <hi>Richard</hi> Earl of <hi>Arran.</hi>
+                     </item>
+                     <item>Lieutenant Colonel <hi>Nelby.</hi>
+                     </item>
+                     <item>Major <hi>Parker.</hi>
+                     </item>
+                  </list>
+                  <list>
+                     <head>4.</head>
+                     <item>Colonel, Sir <hi>John Lanjer.</hi>
+                     </item>
+                     <item>Lieutenant Colonel <hi>Engliſh.</hi>
+                     </item>
+                     <item>Major <hi>Bower.</hi>
+                     </item>
+                  </list>
+               </div>
+               <div type="section">
+                  <head>The Three Regiments of Dragoons, on the Left of all.</head>
+                  <list>
+                     <head>1.</head>
+                     <item>Colonel, The Lord <hi>Cornbury.</hi>
+                     </item>
+                     <item>Lieutenant Colonel <hi>Heſſard.</hi>
+                     </item>
+                     <item>Major <hi>Clifford.</hi>
+                     </item>
+                  </list>
+                  <list>
+                     <head>2.</head>
+                     <item>Colonel, The Lord <hi>Berkeley.</hi>
+                     </item>
+                     <item>Lieutenant Colonel <hi>Maxfield.</hi>
+                     </item>
+                     <item>Major <hi>Hawley.</hi>
+                     </item>
+                  </list>
+                  <list>
+                     <head>3.</head>
+                     <item>Colonel, <hi>Charles</hi> Duke of <hi>Somerſet.</hi>
+                     </item>
+                     <item>Lieutenant Colonel <hi>Canon.</hi>
+                     </item>
+                     <item>Major <hi>Filpot.</hi>
+                     </item>
+                  </list>
+               </div>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <p>This may be Printed,</p>
+            <closer>
+               <signed>
+                  <hi>NORFOLK</hi> and <hi>MARSHAL.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>J. Leake,</hi> for <hi>Arthur Jones,</hi> at the <hi>Flying-Horſe,</hi> near St. <hi>Dunſtan</hi>'s Church in <hi>Fleet-ſtreet,</hi> 1686.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
